@@ -1,5 +1,5 @@
 # Stream :rowboat: [![Travis](https://img.shields.io/travis/willwashburn/stream.svg)](https://travis-ci.org/willwashburn/stream) [![Packagist](https://img.shields.io/packagist/dt/willwashburn/stream.svg)](https://packagist.org/packages/willwashburn/stream) [![Packagist](https://img.shields.io/packagist/v/willwashburn/stream.svg)](https://packagist.org/packages/willwashburn/stream) [![MIT License](https://img.shields.io/packagist/l/willwashburn/stream.svg?style=flat-square)](https://github.com/willwashburn/stream/blob/master/LICENSE)
-:rowboat: php class to model a sequence of data elements made available over time
+> model a sequence of data elements made available over time
 
 # Usage
 
