@@ -1,8 +1,7 @@
 # Stream :rowboat: [![Travis](https://img.shields.io/travis/willwashburn/stream.svg)](https://travis-ci.org/willwashburn/stream) [![Packagist](https://img.shields.io/packagist/dt/willwashburn/stream.svg)](https://packagist.org/packages/willwashburn/stream) [![Packagist](https://img.shields.io/packagist/v/willwashburn/stream.svg)](https://packagist.org/packages/willwashburn/stream) [![MIT License](https://img.shields.io/packagist/l/willwashburn/stream.svg?style=flat-square)](https://github.com/willwashburn/stream/blob/master/LICENSE)
 > model a sequence of data elements made available over time
 
-# Usage
-
+## Usage
 Write and read (or peek) from a string of characters.
 ```PHP
 $stream = new \WillWashburn\Stream\Stream();
@@ -49,7 +48,7 @@ curl_setopt($ch, CURLOPT_WRITEFUNCTION, function ($ch, $str) use (& $stream, $ur
 
 ```
 
-# Installation
+## Installation
 Use composer
 
 ```composer require willwashburn/stream```
