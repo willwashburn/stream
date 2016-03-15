@@ -24,10 +24,8 @@
     "mockery/mockery": "~0.9",
     "phpunit/phpunit": "~4.0"
   },
-  "autoload": {
-    "classmap": [
-      "src"
-    ]
+"autoload": {
+    "psr-4": {"WillWashburn\\": "src/"}
   },
   "minimum-stability": "stable"
 }
