@@ -8,7 +8,7 @@ Write and read (or peek) from a string of characters.
 $stream = new \WillWashburn\Stream\Stream();
 $stream->write('foo');
 
-$stream->read(3); //fo
+$stream->read(3); //foo
 
 $stream->write('bar');
 $stream->write('bang');
