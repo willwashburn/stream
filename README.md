@@ -14,7 +14,7 @@ $stream->write('bar');
 $stream->write('bang');
 
 $stream->read(4); // barb
-$stream->peek(3) // ang
+$stream->peek(3); // ang
 $stream->read(3); // ang
 
 ```
